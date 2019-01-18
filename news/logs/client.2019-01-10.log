@@ -1,0 +1,215 @@
+2019-01-10 14:12:32,948 org.hibernate.validator.internal.util.Version [background-preinit] (Version.java:21) INFO  --> HV000001: Hibernate Validator 6.0.13.Final
+2019-01-10 14:12:33,320 com.ccnt.news.NewsApplication [main] (StartupInfoLogger.java:50) INFO  --> Starting NewsApplication on jintingdeMacBook-Pro.local with PID 60128 (/Users/jinting/IdeaProjects/news/target/classes started by jinting in /Users/jinting/IdeaProjects/news)
+2019-01-10 14:12:33,321 com.ccnt.news.NewsApplication [main] (SpringApplication.java:675) INFO  --> No active profile set, falling back to default profiles: default
+2019-01-10 14:12:34,629 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] (TomcatWebServer.java:90) INFO  --> Tomcat initialized with port(s): 8011 (http)
+2019-01-10 14:12:34,747 org.springframework.web.context.ContextLoader [main] (ServletWebServerApplicationContext.java:285) INFO  --> Root WebApplicationContext: initialization completed in 1359 ms
+2019-01-10 14:12:34,788 org.springframework.boot.web.servlet.ServletRegistrationBean [main] (ServletRegistrationBean.java:186) INFO  --> Servlet dispatcherServlet mapped to [/]
+2019-01-10 14:12:34,789 org.springframework.boot.web.servlet.ServletRegistrationBean [main] (ServletRegistrationBean.java:186) INFO  --> Servlet statViewServlet mapped to [/druid/*]
+2019-01-10 14:12:34,792 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-10 14:12:34,792 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-10 14:12:34,792 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'formContentFilter' to: [/*]
+2019-01-10 14:12:34,792 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-10 14:12:34,792 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:261) INFO  --> Mapping filter: 'webStatFilter' to urls: [/*]
+2019-01-10 14:12:35,178 org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] (ExecutorConfigurationSupport.java:171) INFO  --> Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-10 14:12:35,310 org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] (WelcomePageHandlerMapping.java:56) INFO  --> Adding welcome page: class path resource [static/index.html]
+2019-01-10 14:12:35,482 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] (TomcatWebServer.java:204) INFO  --> Tomcat started on port(s): 8011 (http) with context path ''
+2019-01-10 14:12:35,485 com.ccnt.news.NewsApplication [main] (StartupInfoLogger.java:59) INFO  --> Started NewsApplication in 2.671 seconds (JVM running for 3.868)
+2019-01-10 14:12:56,902 org.springframework.web.servlet.DispatcherServlet [http-nio-8011-exec-1] (FrameworkServlet.java:521) INFO  --> Initializing Servlet 'dispatcherServlet'
+2019-01-10 14:12:56,912 org.springframework.web.servlet.DispatcherServlet [http-nio-8011-exec-1] (FrameworkServlet.java:543) INFO  --> Completed initialization in 9 ms
+2019-01-10 14:12:57,403 com.alibaba.druid.pool.DruidDataSource [http-nio-8011-exec-1] (DruidDataSource.java:930) INFO  --> {dataSource-1} inited
+2019-01-10 14:29:36,745 org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-9] (ExecutorConfigurationSupport.java:208) INFO  --> Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-10 14:29:36,763 com.alibaba.druid.pool.DruidDataSource [Thread-9] (DruidDataSource.java:1825) INFO  --> {dataSource-1} closed
+2019-01-10 14:42:07,867 org.hibernate.validator.internal.util.Version [background-preinit] (Version.java:21) INFO  --> HV000001: Hibernate Validator 6.0.13.Final
+2019-01-10 14:42:08,128 com.ccnt.news.NewsApplication [main] (StartupInfoLogger.java:50) INFO  --> Starting NewsApplication on jintingdeMacBook-Pro.local with PID 60319 (/Users/jinting/IdeaProjects/news/target/classes started by jinting in /Users/jinting/IdeaProjects/news)
+2019-01-10 14:42:08,129 com.ccnt.news.NewsApplication [main] (SpringApplication.java:675) INFO  --> No active profile set, falling back to default profiles: default
+2019-01-10 14:42:09,414 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] (TomcatWebServer.java:90) INFO  --> Tomcat initialized with port(s): 8011 (http)
+2019-01-10 14:42:09,506 org.springframework.web.context.ContextLoader [main] (ServletWebServerApplicationContext.java:285) INFO  --> Root WebApplicationContext: initialization completed in 1332 ms
+2019-01-10 14:42:09,533 org.springframework.boot.web.servlet.ServletRegistrationBean [main] (ServletRegistrationBean.java:186) INFO  --> Servlet dispatcherServlet mapped to [/]
+2019-01-10 14:42:09,534 org.springframework.boot.web.servlet.ServletRegistrationBean [main] (ServletRegistrationBean.java:186) INFO  --> Servlet statViewServlet mapped to [/druid/*]
+2019-01-10 14:42:09,536 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-10 14:42:09,536 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-10 14:42:09,536 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'formContentFilter' to: [/*]
+2019-01-10 14:42:09,536 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-10 14:42:09,537 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:261) INFO  --> Mapping filter: 'webStatFilter' to urls: [/*]
+2019-01-10 14:42:09,803 org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] (ExecutorConfigurationSupport.java:171) INFO  --> Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-10 14:42:09,900 org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] (WelcomePageHandlerMapping.java:56) INFO  --> Adding welcome page: class path resource [static/index.html]
+2019-01-10 14:42:10,046 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] (TomcatWebServer.java:204) INFO  --> Tomcat started on port(s): 8011 (http) with context path ''
+2019-01-10 14:42:10,050 com.ccnt.news.NewsApplication [main] (StartupInfoLogger.java:59) INFO  --> Started NewsApplication in 2.288 seconds (JVM running for 2.989)
+2019-01-10 14:46:01,900 org.springframework.web.servlet.DispatcherServlet [http-nio-8011-exec-1] (FrameworkServlet.java:521) INFO  --> Initializing Servlet 'dispatcherServlet'
+2019-01-10 14:46:01,904 org.springframework.web.servlet.DispatcherServlet [http-nio-8011-exec-1] (FrameworkServlet.java:543) INFO  --> Completed initialization in 4 ms
+2019-01-10 14:46:02,180 com.alibaba.druid.pool.DruidDataSource [http-nio-8011-exec-1] (DruidDataSource.java:930) INFO  --> {dataSource-1} inited
+2019-01-10 14:53:42,844 org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-8] (ExecutorConfigurationSupport.java:208) INFO  --> Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-10 14:53:42,852 com.alibaba.druid.pool.DruidDataSource [Thread-8] (DruidDataSource.java:1825) INFO  --> {dataSource-1} closed
+2019-01-10 14:53:47,643 org.hibernate.validator.internal.util.Version [background-preinit] (Version.java:21) INFO  --> HV000001: Hibernate Validator 6.0.13.Final
+2019-01-10 14:53:48,005 com.ccnt.news.NewsApplication [main] (StartupInfoLogger.java:50) INFO  --> Starting NewsApplication on jintingdeMacBook-Pro.local with PID 60400 (/Users/jinting/IdeaProjects/news/target/classes started by jinting in /Users/jinting/IdeaProjects/news)
+2019-01-10 14:53:48,008 com.ccnt.news.NewsApplication [main] (SpringApplication.java:675) INFO  --> No active profile set, falling back to default profiles: default
+2019-01-10 14:53:49,305 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] (TomcatWebServer.java:90) INFO  --> Tomcat initialized with port(s): 8011 (http)
+2019-01-10 14:53:49,394 org.springframework.web.context.ContextLoader [main] (ServletWebServerApplicationContext.java:285) INFO  --> Root WebApplicationContext: initialization completed in 1331 ms
+2019-01-10 14:53:49,434 org.springframework.boot.web.servlet.ServletRegistrationBean [main] (ServletRegistrationBean.java:186) INFO  --> Servlet dispatcherServlet mapped to [/]
+2019-01-10 14:53:49,435 org.springframework.boot.web.servlet.ServletRegistrationBean [main] (ServletRegistrationBean.java:186) INFO  --> Servlet statViewServlet mapped to [/druid/*]
+2019-01-10 14:53:49,440 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-10 14:53:49,441 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-10 14:53:49,441 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'formContentFilter' to: [/*]
+2019-01-10 14:53:49,441 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-10 14:53:49,442 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:261) INFO  --> Mapping filter: 'webStatFilter' to urls: [/*]
+2019-01-10 14:53:49,782 org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] (ExecutorConfigurationSupport.java:171) INFO  --> Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-10 14:53:49,875 org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] (WelcomePageHandlerMapping.java:56) INFO  --> Adding welcome page: class path resource [static/index.html]
+2019-01-10 14:53:50,021 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] (TomcatWebServer.java:204) INFO  --> Tomcat started on port(s): 8011 (http) with context path ''
+2019-01-10 14:53:50,024 com.ccnt.news.NewsApplication [main] (StartupInfoLogger.java:59) INFO  --> Started NewsApplication in 2.518 seconds (JVM running for 3.377)
+2019-01-10 14:53:57,140 org.springframework.web.servlet.DispatcherServlet [http-nio-8011-exec-1] (FrameworkServlet.java:521) INFO  --> Initializing Servlet 'dispatcherServlet'
+2019-01-10 14:53:57,147 org.springframework.web.servlet.DispatcherServlet [http-nio-8011-exec-1] (FrameworkServlet.java:543) INFO  --> Completed initialization in 7 ms
+2019-01-10 14:53:57,502 com.alibaba.druid.pool.DruidDataSource [http-nio-8011-exec-1] (DruidDataSource.java:930) INFO  --> {dataSource-1} inited
+2019-01-10 14:56:14,907 org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver [http-nio-8011-exec-8] (AbstractHandlerExceptionResolver.java:194) WARN  --> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "add"]
+2019-01-10 14:58:17,271 org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver [http-nio-8011-exec-2] (AbstractHandlerExceptionResolver.java:194) WARN  --> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "add"]
+2019-01-10 15:22:57,756 org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-8] (ExecutorConfigurationSupport.java:208) INFO  --> Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-10 15:22:57,765 com.alibaba.druid.pool.DruidDataSource [Thread-8] (DruidDataSource.java:1825) INFO  --> {dataSource-1} closed
+2019-01-10 15:24:46,418 org.hibernate.validator.internal.util.Version [background-preinit] (Version.java:21) INFO  --> HV000001: Hibernate Validator 6.0.13.Final
+2019-01-10 15:24:46,594 com.ccnt.news.NewsApplication [main] (StartupInfoLogger.java:50) INFO  --> Starting NewsApplication on jintingdeMacBook-Pro.local with PID 60622 (/Users/jinting/IdeaProjects/news/target/classes started by jinting in /Users/jinting/IdeaProjects/news)
+2019-01-10 15:24:46,595 com.ccnt.news.NewsApplication [main] (SpringApplication.java:675) INFO  --> No active profile set, falling back to default profiles: default
+2019-01-10 15:24:47,903 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] (TomcatWebServer.java:90) INFO  --> Tomcat initialized with port(s): 8011 (http)
+2019-01-10 15:24:47,992 org.springframework.web.context.ContextLoader [main] (ServletWebServerApplicationContext.java:285) INFO  --> Root WebApplicationContext: initialization completed in 1357 ms
+2019-01-10 15:24:48,025 org.springframework.boot.web.servlet.ServletRegistrationBean [main] (ServletRegistrationBean.java:186) INFO  --> Servlet dispatcherServlet mapped to [/]
+2019-01-10 15:24:48,026 org.springframework.boot.web.servlet.ServletRegistrationBean [main] (ServletRegistrationBean.java:186) INFO  --> Servlet statViewServlet mapped to [/druid/*]
+2019-01-10 15:24:48,029 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-10 15:24:48,029 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-10 15:24:48,029 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'formContentFilter' to: [/*]
+2019-01-10 15:24:48,030 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-10 15:24:48,030 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:261) INFO  --> Mapping filter: 'webStatFilter' to urls: [/*]
+2019-01-10 15:24:48,329 org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] (ExecutorConfigurationSupport.java:171) INFO  --> Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-10 15:24:48,423 org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] (WelcomePageHandlerMapping.java:56) INFO  --> Adding welcome page: class path resource [static/index.html]
+2019-01-10 15:24:48,571 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] (TomcatWebServer.java:204) INFO  --> Tomcat started on port(s): 8011 (http) with context path ''
+2019-01-10 15:24:48,574 com.ccnt.news.NewsApplication [main] (StartupInfoLogger.java:59) INFO  --> Started NewsApplication in 2.275 seconds (JVM running for 2.837)
+2019-01-10 15:24:55,940 org.springframework.web.servlet.DispatcherServlet [http-nio-8011-exec-1] (FrameworkServlet.java:521) INFO  --> Initializing Servlet 'dispatcherServlet'
+2019-01-10 15:24:55,951 org.springframework.web.servlet.DispatcherServlet [http-nio-8011-exec-1] (FrameworkServlet.java:543) INFO  --> Completed initialization in 10 ms
+2019-01-10 15:24:56,441 com.alibaba.druid.pool.DruidDataSource [http-nio-8011-exec-1] (DruidDataSource.java:930) INFO  --> {dataSource-1} inited
+2019-01-10 15:28:00,145 org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-8] (ExecutorConfigurationSupport.java:208) INFO  --> Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-10 15:28:00,152 com.alibaba.druid.pool.DruidDataSource [Thread-8] (DruidDataSource.java:1825) INFO  --> {dataSource-1} closed
+2019-01-10 15:28:32,041 org.hibernate.validator.internal.util.Version [background-preinit] (Version.java:21) INFO  --> HV000001: Hibernate Validator 6.0.13.Final
+2019-01-10 15:28:32,446 com.ccnt.news.NewsApplication [main] (StartupInfoLogger.java:50) INFO  --> Starting NewsApplication on jintingdeMacBook-Pro.local with PID 60653 (/Users/jinting/IdeaProjects/news/target/classes started by jinting in /Users/jinting/IdeaProjects/news)
+2019-01-10 15:28:32,448 com.ccnt.news.NewsApplication [main] (SpringApplication.java:675) INFO  --> No active profile set, falling back to default profiles: default
+2019-01-10 15:28:33,760 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] (TomcatWebServer.java:90) INFO  --> Tomcat initialized with port(s): 8011 (http)
+2019-01-10 15:28:33,843 org.springframework.web.context.ContextLoader [main] (ServletWebServerApplicationContext.java:285) INFO  --> Root WebApplicationContext: initialization completed in 1289 ms
+2019-01-10 15:28:33,872 org.springframework.boot.web.servlet.ServletRegistrationBean [main] (ServletRegistrationBean.java:186) INFO  --> Servlet dispatcherServlet mapped to [/]
+2019-01-10 15:28:33,873 org.springframework.boot.web.servlet.ServletRegistrationBean [main] (ServletRegistrationBean.java:186) INFO  --> Servlet statViewServlet mapped to [/druid/*]
+2019-01-10 15:28:33,875 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-10 15:28:33,875 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-10 15:28:33,875 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'formContentFilter' to: [/*]
+2019-01-10 15:28:33,875 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-10 15:28:33,875 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:261) INFO  --> Mapping filter: 'webStatFilter' to urls: [/*]
+2019-01-10 15:28:34,200 org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] (ExecutorConfigurationSupport.java:171) INFO  --> Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-10 15:28:34,305 org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] (WelcomePageHandlerMapping.java:56) INFO  --> Adding welcome page: class path resource [static/index.html]
+2019-01-10 15:28:34,450 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] (TomcatWebServer.java:204) INFO  --> Tomcat started on port(s): 8011 (http) with context path ''
+2019-01-10 15:28:34,453 com.ccnt.news.NewsApplication [main] (StartupInfoLogger.java:59) INFO  --> Started NewsApplication in 2.528 seconds (JVM running for 3.296)
+2019-01-10 15:28:42,743 org.springframework.web.servlet.DispatcherServlet [http-nio-8011-exec-1] (FrameworkServlet.java:521) INFO  --> Initializing Servlet 'dispatcherServlet'
+2019-01-10 15:28:42,751 org.springframework.web.servlet.DispatcherServlet [http-nio-8011-exec-1] (FrameworkServlet.java:543) INFO  --> Completed initialization in 8 ms
+2019-01-10 15:28:43,156 com.alibaba.druid.pool.DruidDataSource [http-nio-8011-exec-1] (DruidDataSource.java:930) INFO  --> {dataSource-1} inited
+2019-01-10 16:35:28,585 org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-8] (ExecutorConfigurationSupport.java:208) INFO  --> Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-10 16:35:28,591 com.alibaba.druid.pool.DruidDataSource [Thread-8] (DruidDataSource.java:1825) INFO  --> {dataSource-1} closed
+2019-01-10 18:24:18,096 org.hibernate.validator.internal.util.Version [background-preinit] (Version.java:21) INFO  --> HV000001: Hibernate Validator 6.0.13.Final
+2019-01-10 18:24:18,374 com.ccnt.news.NewsApplication [main] (StartupInfoLogger.java:50) INFO  --> Starting NewsApplication on jintingdeMacBook-Pro.local with PID 61411 (/Users/jinting/IdeaProjects/news/target/classes started by jinting in /Users/jinting/IdeaProjects/news)
+2019-01-10 18:24:18,375 com.ccnt.news.NewsApplication [main] (SpringApplication.java:675) INFO  --> No active profile set, falling back to default profiles: default
+2019-01-10 18:24:19,656 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] (TomcatWebServer.java:90) INFO  --> Tomcat initialized with port(s): 8011 (http)
+2019-01-10 18:24:19,762 org.springframework.web.context.ContextLoader [main] (ServletWebServerApplicationContext.java:285) INFO  --> Root WebApplicationContext: initialization completed in 1341 ms
+2019-01-10 18:24:19,793 org.springframework.boot.web.servlet.ServletRegistrationBean [main] (ServletRegistrationBean.java:186) INFO  --> Servlet dispatcherServlet mapped to [/]
+2019-01-10 18:24:19,795 org.springframework.boot.web.servlet.ServletRegistrationBean [main] (ServletRegistrationBean.java:186) INFO  --> Servlet statViewServlet mapped to [/druid/*]
+2019-01-10 18:24:19,797 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-10 18:24:19,797 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-10 18:24:19,798 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'formContentFilter' to: [/*]
+2019-01-10 18:24:19,798 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-10 18:24:19,798 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:261) INFO  --> Mapping filter: 'webStatFilter' to urls: [/*]
+2019-01-10 18:24:20,079 org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] (ExecutorConfigurationSupport.java:171) INFO  --> Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-10 18:24:20,195 org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] (WelcomePageHandlerMapping.java:56) INFO  --> Adding welcome page: class path resource [static/index.html]
+2019-01-10 18:24:20,359 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] (TomcatWebServer.java:204) INFO  --> Tomcat started on port(s): 8011 (http) with context path ''
+2019-01-10 18:24:20,448 com.ccnt.news.NewsApplication [main] (StartupInfoLogger.java:59) INFO  --> Started NewsApplication in 2.45 seconds (JVM running for 3.22)
+2019-01-10 18:30:29,462 org.springframework.web.servlet.DispatcherServlet [http-nio-8011-exec-1] (FrameworkServlet.java:521) INFO  --> Initializing Servlet 'dispatcherServlet'
+2019-01-10 18:30:29,468 org.springframework.web.servlet.DispatcherServlet [http-nio-8011-exec-1] (FrameworkServlet.java:543) INFO  --> Completed initialization in 5 ms
+2019-01-10 18:30:29,809 com.alibaba.druid.pool.DruidDataSource [http-nio-8011-exec-1] (DruidDataSource.java:930) INFO  --> {dataSource-1} inited
+2019-01-10 19:12:15,712 org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver [http-nio-8011-exec-4] (AbstractHandlerExceptionResolver.java:194) WARN  --> Resolved [org.springframework.web.multipart.support.MissingServletRequestPartException: Required request part 'fileName' is not present]
+2019-01-10 19:15:12,065 org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver [http-nio-8011-exec-8] (AbstractHandlerExceptionResolver.java:194) WARN  --> Resolved [org.springframework.web.multipart.support.MissingServletRequestPartException: Required request part 'fileName' is not present]
+2019-01-10 19:23:37,294 org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver [http-nio-8011-exec-5] (AbstractHandlerExceptionResolver.java:194) WARN  --> Resolved [org.springframework.web.multipart.support.MissingServletRequestPartException: Required request part 'fileName' is not present]
+2019-01-10 19:25:20,514 org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver [http-nio-8011-exec-10] (AbstractHandlerExceptionResolver.java:194) WARN  --> Resolved [org.springframework.web.multipart.support.MissingServletRequestPartException: Required request part 'fileName' is not present]
+2019-01-10 19:27:06,387 org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-7] (ExecutorConfigurationSupport.java:208) INFO  --> Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-10 19:27:06,391 com.alibaba.druid.pool.DruidDataSource [Thread-7] (DruidDataSource.java:1825) INFO  --> {dataSource-1} closed
+2019-01-10 19:27:11,022 org.hibernate.validator.internal.util.Version [background-preinit] (Version.java:21) INFO  --> HV000001: Hibernate Validator 6.0.13.Final
+2019-01-10 19:27:11,328 com.ccnt.news.NewsApplication [main] (StartupInfoLogger.java:50) INFO  --> Starting NewsApplication on jintingdeMacBook-Pro.local with PID 61983 (/Users/jinting/IdeaProjects/news/target/classes started by jinting in /Users/jinting/IdeaProjects/news)
+2019-01-10 19:27:11,329 com.ccnt.news.NewsApplication [main] (SpringApplication.java:675) INFO  --> No active profile set, falling back to default profiles: default
+2019-01-10 19:27:12,599 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] (TomcatWebServer.java:90) INFO  --> Tomcat initialized with port(s): 8011 (http)
+2019-01-10 19:27:12,706 org.springframework.web.context.ContextLoader [main] (ServletWebServerApplicationContext.java:285) INFO  --> Root WebApplicationContext: initialization completed in 1323 ms
+2019-01-10 19:27:12,735 org.springframework.boot.web.servlet.ServletRegistrationBean [main] (ServletRegistrationBean.java:186) INFO  --> Servlet dispatcherServlet mapped to [/]
+2019-01-10 19:27:12,736 org.springframework.boot.web.servlet.ServletRegistrationBean [main] (ServletRegistrationBean.java:186) INFO  --> Servlet statViewServlet mapped to [/druid/*]
+2019-01-10 19:27:12,738 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-10 19:27:12,739 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-10 19:27:12,739 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'formContentFilter' to: [/*]
+2019-01-10 19:27:12,739 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-10 19:27:12,739 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:261) INFO  --> Mapping filter: 'webStatFilter' to urls: [/*]
+2019-01-10 19:27:13,050 org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] (ExecutorConfigurationSupport.java:171) INFO  --> Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-10 19:27:13,144 org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] (WelcomePageHandlerMapping.java:56) INFO  --> Adding welcome page: class path resource [static/index.html]
+2019-01-10 19:27:13,295 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] (TomcatWebServer.java:204) INFO  --> Tomcat started on port(s): 8011 (http) with context path ''
+2019-01-10 19:27:13,298 com.ccnt.news.NewsApplication [main] (StartupInfoLogger.java:59) INFO  --> Started NewsApplication in 2.39 seconds (JVM running for 3.092)
+2019-01-10 19:27:29,938 org.springframework.web.servlet.DispatcherServlet [http-nio-8011-exec-1] (FrameworkServlet.java:521) INFO  --> Initializing Servlet 'dispatcherServlet'
+2019-01-10 19:27:29,949 org.springframework.web.servlet.DispatcherServlet [http-nio-8011-exec-1] (FrameworkServlet.java:543) INFO  --> Completed initialization in 10 ms
+2019-01-10 19:27:30,458 com.alibaba.druid.pool.DruidDataSource [http-nio-8011-exec-1] (DruidDataSource.java:930) INFO  --> {dataSource-1} inited
+2019-01-10 21:53:35,121 org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-7] (ExecutorConfigurationSupport.java:208) INFO  --> Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-10 21:53:35,126 com.alibaba.druid.pool.DruidDataSource [Thread-7] (DruidDataSource.java:1825) INFO  --> {dataSource-1} closed
+2019-01-10 22:07:55,240 org.hibernate.validator.internal.util.Version [background-preinit] (Version.java:21) INFO  --> HV000001: Hibernate Validator 6.0.13.Final
+2019-01-10 22:07:55,418 com.ccnt.news.NewsApplication [main] (StartupInfoLogger.java:50) INFO  --> Starting NewsApplication on jintingdeMacBook-Pro.local with PID 63099 (/Users/jinting/IdeaProjects/news/target/classes started by jinting in /Users/jinting/IdeaProjects/news)
+2019-01-10 22:07:55,420 com.ccnt.news.NewsApplication [main] (SpringApplication.java:675) INFO  --> No active profile set, falling back to default profiles: default
+2019-01-10 22:07:56,783 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] (TomcatWebServer.java:90) INFO  --> Tomcat initialized with port(s): 8011 (http)
+2019-01-10 22:07:56,878 org.springframework.web.context.ContextLoader [main] (ServletWebServerApplicationContext.java:285) INFO  --> Root WebApplicationContext: initialization completed in 1427 ms
+2019-01-10 22:07:56,912 org.springframework.boot.web.servlet.ServletRegistrationBean [main] (ServletRegistrationBean.java:186) INFO  --> Servlet dispatcherServlet mapped to [/]
+2019-01-10 22:07:56,914 org.springframework.boot.web.servlet.ServletRegistrationBean [main] (ServletRegistrationBean.java:186) INFO  --> Servlet statViewServlet mapped to [/druid/*]
+2019-01-10 22:07:56,917 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-10 22:07:56,917 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-10 22:07:56,917 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'formContentFilter' to: [/*]
+2019-01-10 22:07:56,917 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-10 22:07:56,918 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:261) INFO  --> Mapping filter: 'webStatFilter' to urls: [/*]
+2019-01-10 22:07:57,197 org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] (ExecutorConfigurationSupport.java:171) INFO  --> Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-10 22:07:57,293 org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] (WelcomePageHandlerMapping.java:56) INFO  --> Adding welcome page: class path resource [static/index.html]
+2019-01-10 22:07:57,437 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] (TomcatWebServer.java:204) INFO  --> Tomcat started on port(s): 8011 (http) with context path ''
+2019-01-10 22:07:57,440 com.ccnt.news.NewsApplication [main] (StartupInfoLogger.java:59) INFO  --> Started NewsApplication in 2.301 seconds (JVM running for 2.932)
+2019-01-10 22:09:19,534 org.springframework.web.servlet.DispatcherServlet [http-nio-8011-exec-1] (FrameworkServlet.java:521) INFO  --> Initializing Servlet 'dispatcherServlet'
+2019-01-10 22:09:19,540 org.springframework.web.servlet.DispatcherServlet [http-nio-8011-exec-1] (FrameworkServlet.java:543) INFO  --> Completed initialization in 5 ms
+2019-01-10 22:09:19,835 com.alibaba.druid.pool.DruidDataSource [http-nio-8011-exec-1] (DruidDataSource.java:930) INFO  --> {dataSource-1} inited
+2019-01-10 22:11:37,775 org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-8] (ExecutorConfigurationSupport.java:208) INFO  --> Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-10 22:11:37,781 com.alibaba.druid.pool.DruidDataSource [Thread-8] (DruidDataSource.java:1825) INFO  --> {dataSource-1} closed
+2019-01-10 22:13:35,974 org.hibernate.validator.internal.util.Version [background-preinit] (Version.java:21) INFO  --> HV000001: Hibernate Validator 6.0.13.Final
+2019-01-10 22:13:36,238 com.ccnt.news.NewsApplication [main] (StartupInfoLogger.java:50) INFO  --> Starting NewsApplication on jintingdeMacBook-Pro.local with PID 63141 (/Users/jinting/IdeaProjects/news/target/classes started by jinting in /Users/jinting/IdeaProjects/news)
+2019-01-10 22:13:36,239 com.ccnt.news.NewsApplication [main] (SpringApplication.java:675) INFO  --> No active profile set, falling back to default profiles: default
+2019-01-10 22:13:37,390 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] (TomcatWebServer.java:90) INFO  --> Tomcat initialized with port(s): 8011 (http)
+2019-01-10 22:13:37,471 org.springframework.web.context.ContextLoader [main] (ServletWebServerApplicationContext.java:285) INFO  --> Root WebApplicationContext: initialization completed in 1195 ms
+2019-01-10 22:13:37,514 org.springframework.boot.web.servlet.ServletRegistrationBean [main] (ServletRegistrationBean.java:186) INFO  --> Servlet dispatcherServlet mapped to [/]
+2019-01-10 22:13:37,515 org.springframework.boot.web.servlet.ServletRegistrationBean [main] (ServletRegistrationBean.java:186) INFO  --> Servlet statViewServlet mapped to [/druid/*]
+2019-01-10 22:13:37,518 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-10 22:13:37,518 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-10 22:13:37,519 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'formContentFilter' to: [/*]
+2019-01-10 22:13:37,519 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-10 22:13:37,519 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:261) INFO  --> Mapping filter: 'webStatFilter' to urls: [/*]
+2019-01-10 22:13:37,840 org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] (ExecutorConfigurationSupport.java:171) INFO  --> Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-10 22:13:37,937 org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] (WelcomePageHandlerMapping.java:56) INFO  --> Adding welcome page: class path resource [static/index.html]
+2019-01-10 22:13:38,081 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] (TomcatWebServer.java:204) INFO  --> Tomcat started on port(s): 8011 (http) with context path ''
+2019-01-10 22:13:38,151 com.ccnt.news.NewsApplication [main] (StartupInfoLogger.java:59) INFO  --> Started NewsApplication in 2.281 seconds (JVM running for 2.974)
+2019-01-10 22:13:48,046 org.springframework.web.servlet.DispatcherServlet [http-nio-8011-exec-1] (FrameworkServlet.java:521) INFO  --> Initializing Servlet 'dispatcherServlet'
+2019-01-10 22:13:48,055 org.springframework.web.servlet.DispatcherServlet [http-nio-8011-exec-1] (FrameworkServlet.java:543) INFO  --> Completed initialization in 9 ms
+2019-01-10 22:13:48,105 org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver [http-nio-8011-exec-1] (AbstractHandlerExceptionResolver.java:194) WARN  --> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "batchremove"]
+2019-01-10 22:16:40,285 org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [Thread-8] (ExecutorConfigurationSupport.java:208) INFO  --> Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-10 22:16:43,790 org.hibernate.validator.internal.util.Version [background-preinit] (Version.java:21) INFO  --> HV000001: Hibernate Validator 6.0.13.Final
+2019-01-10 22:16:44,082 com.ccnt.news.NewsApplication [main] (StartupInfoLogger.java:50) INFO  --> Starting NewsApplication on jintingdeMacBook-Pro.local with PID 63171 (/Users/jinting/IdeaProjects/news/target/classes started by jinting in /Users/jinting/IdeaProjects/news)
+2019-01-10 22:16:44,083 com.ccnt.news.NewsApplication [main] (SpringApplication.java:675) INFO  --> No active profile set, falling back to default profiles: default
+2019-01-10 22:16:45,251 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] (TomcatWebServer.java:90) INFO  --> Tomcat initialized with port(s): 8011 (http)
+2019-01-10 22:16:45,376 org.springframework.web.context.ContextLoader [main] (ServletWebServerApplicationContext.java:285) INFO  --> Root WebApplicationContext: initialization completed in 1227 ms
+2019-01-10 22:16:45,406 org.springframework.boot.web.servlet.ServletRegistrationBean [main] (ServletRegistrationBean.java:186) INFO  --> Servlet dispatcherServlet mapped to [/]
+2019-01-10 22:16:45,407 org.springframework.boot.web.servlet.ServletRegistrationBean [main] (ServletRegistrationBean.java:186) INFO  --> Servlet statViewServlet mapped to [/druid/*]
+2019-01-10 22:16:45,410 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'characterEncodingFilter' to: [/*]
+2019-01-10 22:16:45,410 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2019-01-10 22:16:45,410 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'formContentFilter' to: [/*]
+2019-01-10 22:16:45,410 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:248) INFO  --> Mapping filter: 'requestContextFilter' to: [/*]
+2019-01-10 22:16:45,411 org.springframework.boot.web.servlet.FilterRegistrationBean [main] (AbstractFilterRegistrationBean.java:261) INFO  --> Mapping filter: 'webStatFilter' to urls: [/*]
+2019-01-10 22:16:45,709 org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor [main] (ExecutorConfigurationSupport.java:171) INFO  --> Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-10 22:16:45,805 org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] (WelcomePageHandlerMapping.java:56) INFO  --> Adding welcome page: class path resource [static/index.html]
+2019-01-10 22:16:45,947 org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] (TomcatWebServer.java:204) INFO  --> Tomcat started on port(s): 8011 (http) with context path ''
+2019-01-10 22:16:45,950 com.ccnt.news.NewsApplication [main] (StartupInfoLogger.java:59) INFO  --> Started NewsApplication in 2.269 seconds (JVM running for 3.019)
+2019-01-10 22:16:52,411 org.springframework.web.servlet.DispatcherServlet [http-nio-8011-exec-1] (FrameworkServlet.java:521) INFO  --> Initializing Servlet 'dispatcherServlet'
+2019-01-10 22:16:52,421 org.springframework.web.servlet.DispatcherServlet [http-nio-8011-exec-1] (FrameworkServlet.java:543) INFO  --> Completed initialization in 10 ms
+2019-01-10 22:16:52,908 com.alibaba.druid.pool.DruidDataSource [http-nio-8011-exec-1] (DruidDataSource.java:930) INFO  --> {dataSource-1} inited
+2019-01-10 22:17:04,924 org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver [http-nio-8011-exec-2] (AbstractHandlerExceptionResolver.java:194) WARN  --> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "batchremove"]
+2019-01-10 22:20:16,690 org.springframework.web.servlet.mvc.support.DefaultHandlerExceptionResolver [http-nio-8011-exec-5] (AbstractHandlerExceptionResolver.java:194) WARN  --> Resolved [org.springframework.web.method.annotation.MethodArgumentTypeMismatchException: Failed to convert value of type 'java.lang.String' to required type 'java.lang.Integer'; nested exception is java.lang.NumberFormatException: For input string: "delete"]
